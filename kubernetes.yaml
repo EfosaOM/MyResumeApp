@@ -4,5 +4,5 @@ metadata:
   name: resume-app-pod
 spec:
   containers:
-  - image: ghcr.io/<github-username>/resume-image:latest
+  - image: ghcr.io/efosaom/resume-image:latest
     name: resume-app-container

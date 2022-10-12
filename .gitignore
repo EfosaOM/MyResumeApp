@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 .idea/*
 .m2/*
 .settings/*
+=======
+.m2/*
+.settings/*
+.idea/*
+Gemfile
+Gemfile.lock
+vendor/*
+_site/*
+.jekyll-cache
+>>>>>>> 9550f87 (Course 1 Complete)
